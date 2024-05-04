@@ -12,3 +12,6 @@ def fib(n):
 print(fib(6))
 print(fib(7))
 print(fib(8))
+
+'''Time complexity is 2^n. Using a tree structure...'''
+
